@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pnchot
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning control engineering
-- 💞️ I’m looking to collaborate on mobile robot project
-- 📫 How to reach me pnchot@yahoo.fr
+- 👋 Hi, I’m Denis
+- 👀 I’m possionate in Robotics
+- 🌱 I’m currently doing my Ph.D in mobile robotics
+- 💞️ I’m looking to collaborate on robotic projects
+- 📫 reach me pnchot@yahoo.fr
 
 <!---
 pnchot/pnchot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
