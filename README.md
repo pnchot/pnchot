@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Denis
-- 👀 I’m passionate about Robotics
+- 💞️ I’m passionate about Robotics
 - 🌱 I’m currently doing my Ph.D in mobile Robotics
-- 💞️ I’m looking to collaborate on robotic projects
+- 👀 I’m looking to collaborate on robotic projects
 - 📫 Reach me at pnchot@yahoo.fr
 
 <!---
